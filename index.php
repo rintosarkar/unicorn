@@ -95,6 +95,42 @@
 				</div>
 			</div>
 		</div>
+	</div> <!-- Unicorn Service Section End-->
+	<div class="uni-featured-article">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-9 col-sm-offset-2">
+					<p class="ufa-title">Featured Articles</p>
+					<p class="ufa-details">The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the  </p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="ufa-post">
+						<p class="ufa-post-title">COMIC</p>
+						<p class="ufa-post-details">A million ways to die in the wild wild wild west</p>
+						<img class="ufa-post-pp" src="img/jimmy.png" alt="JIMMY JEFFERSON">
+						<p class="ufa-post-author-title">JIMMY JEFFERSON <br/><?php echo date("d/m/y");?></p>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="ufa-post">
+						<p class="ufa-post-title">LIFE STYLE</p>
+						<p class="ufa-post-details">The most comfortable chair comes with no backpain</p>
+						<img class="ufa-post-pp" src="img/gail.png" alt="JIMMY JEFFERSON">
+						<p class="ufa-post-author-title">Gail Gutierrez <br/><?php echo date("d/m/y");?></p>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="ufa-post">
+						<p class="ufa-post-title">COMIC</p>
+						<p class="ufa-post-details">journey to the center of the earth with jefferson </p>
+						<img class="ufa-post-pp" src="img/mason.png" alt="JIMMY JEFFERSON">
+						<p class="ufa-post-author-title">MASON JOHNSTON <br/><?php echo date("d/m/y");?></p>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </body>
 </html>

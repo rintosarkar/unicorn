@@ -3,9 +3,10 @@
 }
 .uni-header{
 	background-image: url(../img/header.jpg);
-
-	/*background-color: yellow;*/
+	background-repeat: no-repeat;
+	background-color: #e6e5e1;
 }
+
 .uni-header-top{
 	margin-top: 2em;
 	font-weight: bolder;
@@ -65,7 +66,7 @@
 	margin-bottom: 120px;
 }
 
-/*3rd section*/
+/*3rd section: Service*/
 
 .uni-service{
 	padding-top: 80px;
@@ -83,4 +84,52 @@
 	line-height: 30px;
 	font-size: 16px;
 	word-spacing: 2px;
+}
+
+/* Forth Section: Featured Article; */
+
+.ufa-title{
+	padding-top: 110px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.ufa-details{
+	padding-top: 30px;
+	text-align: center;
+	line-height: 30px;
+	font-size: 16px;
+	color: #212121;
+}
+
+.ufa-post{
+	margin: 100px 0 140px 0;
+	background-color: #222222;
+	width: 368px;
+	height: 368px;
+}
+
+.ufa-post-title{
+	padding-top: 65px;
+	padding-left: 40px;
+	color:#eeeeee;
+	font-size: 14px;
+}
+
+.ufa-post-details{
+	padding-top: 15px;
+	padding-left: 40px;
+	color:#eeeeee;
+}
+
+.ufa-post-pp{
+	padding: 85px 0 50px 40px;
+	float: left;
+	color:#eeeeee;
+}
+.ufa-post-author-title{
+	padding: 95px 0 50px 20px;
+	float: left;
+	color:#eeeeee;
 }
