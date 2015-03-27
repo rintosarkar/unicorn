@@ -1,0 +1,86 @@
+*{
+	font-family: Source Sans Pro;
+}
+.uni-header{
+	background-image: url(../img/header.jpg);
+
+	/*background-color: yellow;*/
+}
+.uni-header-top{
+	margin-top: 2em;
+	font-weight: bolder;
+	font-size: 1.25em;
+}
+
+.uni-title{
+	margin-top: .95em;
+
+
+}
+
+.uni-main-title{
+	text-align: right;
+	font-size: 70px;
+	font-family: Source Sans Pro;
+	font-weight: bolder;
+	color:#212121;
+}
+
+.uni-header-mid{
+	margin-top: 390px;
+}
+
+.uni-title-details{
+	padding: 40px 0 55px 0;
+	text-align: right;
+	color:#212121;
+}
+
+.uni-btn{
+	border: 2px solid #212121;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	margin-bottom: 185px; 
+}
+
+/*second section*/
+
+.uni-whoWhy{
+	text-align: center;
+	margin-top: 100px;
+}
+
+.uni-intro-title{
+	font-family: Source Sans Pro;
+	font-size: 27px;
+	color: #212121;
+	font-weight: bold;
+	padding-top: 20px;
+	margin-bottom: 80px;
+}
+
+.uni-intro-details{
+	font-size:16px; 
+	line-height: 30px;
+	margin-bottom: 120px;
+}
+
+/*3rd section*/
+
+.uni-service{
+	padding-top: 80px;
+	background-color: #efefef;
+	padding-bottom: 115px;
+}
+
+.wow-title{
+	margin-top: 30px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.wow-details{
+	margin-top: 35px;
+	line-height: 30px;
+	font-size: 16px;
+	word-spacing: 2px;
+}
