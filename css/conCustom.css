@@ -133,3 +133,15 @@
 	float: left;
 	color:#eeeeee;
 }
+
+/*CLIENT slider section*/
+
+.uni-client{
+	margin: 110px 0 50px 0;
+	text-align: center;
+	background-color: red;
+}
+.uni-caption{
+	padding-top: -95px;
+	color:black;
+}
