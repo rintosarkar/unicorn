@@ -14,7 +14,10 @@
 }
 
 .uni-title{
-	margin-top: .95em;
+	margin-top: .15em;
+	font-family: roboto;
+	font-size: 2em;
+	color:#AA3939;
 
 
 }
